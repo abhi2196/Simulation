@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Abhi\\AndroidStudioProjects\\Simulation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\sh.png",
+        "source": "C:\\Users\\Abhi\\AndroidStudioProjects\\Simulation\\app\\src\\main\\res\\mipmap-hdpi\\sh.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhi\\AndroidStudioProjects\\Simulation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_invert_colors_black_36dp_2x.png",
+        "source": "C:\\Users\\Abhi\\AndroidStudioProjects\\Simulation\\app\\src\\main\\res\\mipmap-hdpi\\ic_invert_colors_black_36dp_2x.png"
+    },
+    {
+        "merged": "C:\\Users\\Abhi\\AndroidStudioProjects\\Simulation\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Abhi\\AndroidStudioProjects\\Simulation\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    }
+]
