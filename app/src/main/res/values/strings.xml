@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Simulation</string>
+    <string name="title_activity_home">Home</string>
+
+    <string-array name="names">
+        <item>Abhishek</item>
+        <item>Ajay</item>
+        <item>Ashu</item>
+        <item>Manish</item>
+        <item>Ravish</item>
+        <item>Sandeep</item>
+    </string-array>
+
+    <string-array name="status">
+        <item>Paired</item>
+        <item>Available</item>
+        <item>Busy</item>
+        <item>In a meeting</item>
+        <item>At work</item>
+        <item>At gym</item>
+    </string-array>
+    <array name="pro_pics">
+        <item>@drawable/abhi</item>
+        <item>@drawable/ajay</item>
+        <item>@drawable/ashu</item>
+        <item>@drawable/manish</item>
+        <item>@drawable/ravish</item>
+        <item>@drawable/sandy</item>
+    </array>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">Profile</string>
+</resources>
